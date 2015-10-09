@@ -17,15 +17,26 @@
 	padding-right: 20px;
 }
 
+.child{
+	max-height: 150px;
+	width: 100%;
+	margin-left: 10%;
+}
 
 
 @media screen and (max-width: 768px) {
 	.un {
 		margin-left: 25%;
+		
 
 	}
 	.for {
-		margin-left: 20%;
+		margin: 0 auto;
+		margin-left: 10%;
+	}
+	.child{
+		margin: 0 auto;
+
 	}
 
 
