@@ -4,24 +4,28 @@
 	height:150px;
 }
 
-.logo img
+/*.un
 {
 	margin-left: 10px;
 	
 	max-height: 90%;
-}
+}*/
 
-.logo2  {
-	background-color: #00aeef;
+.for
+{
 	margin-top: 20px;
-
-
+	padding-right: 20px;
 }
+
+
 
 @media screen and (max-width: 768px) {
-	.logo img {
+	.un {
 		margin-left: 25%;
 
+	}
+	.for {
+		margin-left: 20%;
 	}
 
 
