@@ -7,5 +7,22 @@
 .logo img
 {
 	margin-left: 10px;
+	
+	max-height: 90%;
+}
+
+.logo2  {
 	background-color: #00aeef;
+	margin-top: 20px;
+
+
+}
+
+@media screen and (max-width: 768px) {
+	.logo img {
+		margin-left: 25%;
+
+	}
+
+
 }

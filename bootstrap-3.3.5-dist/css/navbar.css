@@ -7,8 +7,13 @@
 
 .navbar-brand{
 	color: #00aeef!important;
-}
 
+}
+@media screen and (max-width: 768px) {
+    .navbar-brand{
+       font-size: 100%
+    }
+}
 
 .nav-tabs-color li a b
 {
