@@ -48,3 +48,27 @@
 	margin-top: 2%;
 	color: white;
 }
+.imge-size img{
+
+}
+.coloree{
+	background-color:#d1d3d4;
+
+}
+
+@media screen and (max-width: 768px) {
+
+.education-logo-1 {
+/*margin-left: 15%;*/
+}
+.education-logo-2{
+	/*margin-left: 5%;*/
+
+}
+.education-logo-3{
+	/*margin-left: 2%;
+	width: 100%;*/
+
+}
+
+}
