@@ -1,3 +1,4 @@
+/*home.html*/
 .logo
 {
 	background-color: #00aeef;
@@ -27,17 +28,23 @@
 @media screen and (max-width: 768px) {
 	.un {
 		margin-left: 25%;
-		
-
 	}
 	.for {
 		margin: 0 auto;
 		margin-left: 10%;
 	}
-	.child{
+	/*.child{
 		margin: 0 auto;
 
-	}
+	}*/
+}
 
-
+/*education.html*/
+.education-color
+{
+	background-color: #d14e4f;
+}
+.agencies-color{
+	margin-top: 2%;
+	color: white;
 }
