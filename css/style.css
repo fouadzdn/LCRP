@@ -51,9 +51,23 @@
 .imge-size img{
 
 }
-.coloree{
+.colore1{
 	background-color:#d1d3d4;
 
+}
+
+.space1{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-top: 2%;
+
+}
+.space{
+	margin-top: 2%;
+}
+
+.space3{
+	height: 1%;
 }
 
 @media screen and (max-width: 768px) {
@@ -70,5 +84,13 @@
 	width: 100%;*/
 
 }
-
+.imge-switch1{
+	display:none;
+	
+}
+.imge-switch2{
+	display:block!important;
+	width:100%;
+	
+}
 }
